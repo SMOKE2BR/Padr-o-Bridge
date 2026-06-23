@@ -25,3 +25,7 @@ src/
 │
 └── app/
 └── Main.java
+
+***DIAGRAMA DE CLASSES***
+
+<img width="838" height="349" alt="padrrão bridge" src="https://github.com/user-attachments/assets/8fc35403-b45e-42ea-8266-ae1ba0ea24bd" />
